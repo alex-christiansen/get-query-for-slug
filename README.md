@@ -1,5 +1,5 @@
 ### Get Query for Slug
-Description
+#Description
 
 This simple script allows a user to find the slug associated with a given query ID. It is an alternative to looking up slugs via Looker System Activity 
 
