@@ -4,7 +4,7 @@ from looker_sdk import models40 as models
 from urllib.parse import urlparse
 
 # Configuration loading
-sdk = looker_sdk.init40("example.ini")
+sdk = looker_sdk.init40("looker.ini")
 
 
 def extract_slug_from_share_url(share_url: str) -> str:
