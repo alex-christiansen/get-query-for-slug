@@ -5,8 +5,7 @@ This simple script allows a user to find the slug associated with a given query 
 
 **Requirements**
 
-Python 3.11.6
-[looker-sdk](https://pypi.org/project/looker-sdk/), argparse, urlparse
+Python 3.11.6, [looker-sdk](https://pypi.org/project/looker-sdk/), argparse, urlparse
 
 **Usage**
 
